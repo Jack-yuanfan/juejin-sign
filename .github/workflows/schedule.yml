@@ -1,4 +1,4 @@
-name: 定时签到任务
+name: 定时签到任务1
 
 on:
   schedule:
